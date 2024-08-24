@@ -1,0 +1,16 @@
+strong{
+    color:mediumblue;
+}
+h2{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.first{
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    font-style: italic;
+}
+.Second{
+    background-color: darkgray;
+}
